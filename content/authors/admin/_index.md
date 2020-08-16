@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raed Hamed
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute for Environmental Studies, Vrije Universiteit Amsterdam
+  url: "https://ivm.vu.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'contact'   For a direct email link, use "mailto:raed.hamed@vu.nl".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/raedhamed1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7loWaFbaHRkIEakIEi4DLhDjNvipY_Kq_sMszoSevQY_TnjX7apJvhegIo74HTOenJ71MXfO5VvZNDoueiGoN7p5ioyg&user=4aSAUXEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Raed-Hamed
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "raed.hamed@vu.nl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Raed Hamed is a PhD researcher within the Water & Climate Risk group at the Institute for Environmental Studies (IVM). His work focuses on developing storylines that will investigate the impacts of current and future climate variability on staple crop production in key hotspot regions around the world. This will be done using a combination of machine learning and system dynamics modeling. The research is embedded in the RECEIPT project, an EU-funded project on climate risk storylines.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Raed completed two bachelor’s degrees in Agribusiness and Agricultural Sciences at the American University of Beirut. He then obtained his MSc in Climate Studies at Wageningen University with his thesis focused on seasonal streamflow forecasts for South America.
+
+Before starting at the VU Amsterdam, Raed worked for the consultancy company FutureWater on the EU-funded project IMPREX where he analyzed seasonal forecasting skill of hydrological and crop-related variables for a specific region in the South East of Spain. Raed is interested in a holistic understanding of the food production system looking at interactions between the social, economic and physical components in order to support decision-making in an uncertain world.
