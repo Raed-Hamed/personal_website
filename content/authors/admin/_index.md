@@ -60,8 +60,8 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/cv.pdf
-
+   link: https://github.com/Raed-Hamed/website/tree/master/static/files/cv.pdf
+   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "raed.hamed@vu.nl"
 
