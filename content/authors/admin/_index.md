@@ -44,13 +44,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  link: mailto:raed.hamed@vu.nl
   #link: 'contact'   #For a direct email link, use "mailto:raed.hamed@vu.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/raedhamed1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7loWaFbaHRkIEakIEi4DLhDjNvipY_Kq_sMszoSevQY_TnjX7apJvhegIo74HTOenJ71MXfO5VvZNDoueiGoN7p5ioyg&user=4aSAUXEAAAAJ
+  link: https://scholar.google.com/citations?user=4aSAUXEAAAAJ&hl=en&inst=4393003693960974403&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/Raed-Hamed
