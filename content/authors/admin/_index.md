@@ -57,7 +57,7 @@ social:
   icon_pack: fab
   link: https://github.com/Raed-Hamed
 - icon = linkedin
-  icon_pack = "fa"
+  icon_pack = fa
   link = https://www.linkedin.com/in/raed-hamed-76ba90b1/
 - icon = orcid
   icon_pack = ai
