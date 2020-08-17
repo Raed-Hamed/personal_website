@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Amsterdam"
   date_start = "2019-10-15"
   date_end = ""
-  description = """
-  Responsibilities include:
+#  description = """
+#  Responsibilities include:
   
-  * Research
-  * Teaching
-  * Management
-  """
+#  * Research
+#  * Teaching
+#  * Management
+#  """
 
 [[experience]]
   title = "Climate Data Analyst"
