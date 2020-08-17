@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   company_url = "https://www.futurewater.eu/"
   location = "Wageningen"
   date_start = "2018-04-01"
-  date_end = "2019-10-1"
+  date_end = "2019-10-01"
 
 +++
