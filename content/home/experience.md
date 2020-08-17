@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   title = "Climate Data Analyst"
   company = "FutureWater"
   company_url = "https://www.futurewater.eu/"
-  location = "Wageningen/Cartagena"
+  location = "Wageningen & Cartagena"
   date_start = "2018-04-01"
   date_end = "2019-10-01"
   
