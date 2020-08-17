@@ -31,7 +31,7 @@ education:
   - course: MSc in Climate Studies
     institution: Wageningen University
     year: 2018
-  - course: BSc. Agricultural Sciences + Agricultural Engineering Diploma
+  - course: BSc. Agricultural Sciences and Diploma of Ingénieur Agricole
     institution: American University of Beirut
     year: 2016
   - course: BSc in Agribusiness
@@ -65,9 +65,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: https://github.com/Raed-Hamed/website/tree/master/static/files/cv.pdf
+- icon:"cv"
+  icon_pack:"ai"
+  link:"files/cv.pdf"
    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "raed.hamed@vu.nl"

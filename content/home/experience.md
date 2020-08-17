@@ -36,8 +36,17 @@ date_format = "Jan 2006"
   title = "Climate Data Analyst"
   company = "FutureWater"
   company_url = "https://www.futurewater.eu/"
-  location = "Wageningen"
+  location = "Wageningen/Cartagena"
   date_start = "2018-04-01"
   date_end = "2019-10-01"
+  
+[[experience]]
+  title = "Research assistant"
+  company = "American University of Beirut"
+  company_url = "https://www.aub.edu.lb/fafs/pages/default.aspx"
+  location = "Beirut"
+  date_start = "2016-01-01"
+  date_end = "2016-08-01"
+
 
 +++
