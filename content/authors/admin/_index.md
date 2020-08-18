@@ -18,23 +18,26 @@ organizations:
   url: "https://ivm.vu.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include agriculture, climate and weather extremes and modeling.
+bio: My research interests include agriculture, climate and weather extremes and empirical modeling.
 
 interests:
 - Agriculture
+- Food systems
+- Drought
 - Climate and weather extremes
 - Impact assessment
 - Decision-making
+- Empirical Research
 
 education:
   courses:
-  - course: MSc in Climate Studies
-    institution: Wageningen University
+  - course: MSc. Climate Studies
+    institution: Wageningen University & Research
     year: 2018
   - course: BSc. Agricultural Sciences and Diploma of Ingénieur Agricole
     institution: American University of Beirut
     year: 2016
-  - course: BSc in Agribusiness
+  - course: BSc. Agribusiness
     institution: American University of Beirut
     year: 2014
 
@@ -59,10 +62,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: /files/cv.pdf
-  
-# - icon = linkedin
-#   icon_pack = fab
-#   link = https://www.linkedin.com/in/raed-hamed-76ba90b1/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/raed-hamed-76ba90b1/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2243-3109
