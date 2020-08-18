@@ -1,13 +1,17 @@
 +++
-# Accomplishments widget.
+# Teaching widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
 
+# [content]
+#   # Page type to display. E.g. post, talk, or publication.
+#   page_type = "Teaching"
+  
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
