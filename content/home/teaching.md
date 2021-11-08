@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Teaching assistant"
+  organization = "Teaching staff"
   organization_url = ""
   title = "Water Risks (AM_1210)"
   url = "https://studiegids.vu.nl/en/Master/2019-2020/hydrology/AM_1210"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Teaching assistant"
+  organization = "Teaching staff"
   organization_url = ""
   title = "Climate Impacts & Policy (AM_1240)"
   url = "https://studiegids.vu.nl/en/Master/2019-2020/earth-sciences/AM_1240"

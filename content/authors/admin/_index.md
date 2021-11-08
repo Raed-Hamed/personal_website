@@ -26,8 +26,7 @@ interests:
 - Drought
 - Climate and weather extremes
 - Impact assessment
-- Decision-making
-- Empirical Research
+- Data-driven Research
 
 education:
   courses:
