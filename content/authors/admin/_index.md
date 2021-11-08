@@ -61,7 +61,7 @@ social:
   link: https://github.com/Raed-Hamed
 - icon: cv
   icon_pack: ai
-  link: /files/cv.pdf
+  link: /files/CV_RH.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/raed-hamed-76ba90b1/
@@ -83,8 +83,4 @@ user_groups:
 - Visitors
 ---
 
-Raed Hamed is a PhD researcher within the Water & Climate Risk group at the Institute for Environmental Studies (IVM). His work focuses on developing storylines that will investigate the impacts of current and future climate variability on staple crop production in key hotspot regions around the world. This will be done using a combination of machine learning and system dynamics modeling. The research is embedded in the RECEIPT project, an EU-funded project on climate risk storylines.
-
-Raed completed two bachelor’s degrees in Agribusiness and Agricultural Sciences at the American University of Beirut. He then obtained his MSc in Climate Studies at Wageningen University with his thesis focused on seasonal streamflow forecasts for South America.
-
-Before starting at the VU Amsterdam, Raed worked for the consultancy company FutureWater on the EU-funded project IMPREX where he analyzed seasonal forecasting skill of hydrological and crop-related variables for a specific region in the South East of Spain. Raed is interested in a holistic understanding of the food production system looking at interactions between the social, economic and physical components in order to support decision-making in an uncertain world.
+I am a PhD researcher within the Water & Climate Risk group of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. In particular, I do my research part of the [climate extremes](https://climateextremes.eu/) and [hydrological extremes](https://hydrologicalextremes.org/) groups lead by Dim Coumou and Anne Van Loon respectively. I study weather and climate extremes and related impacts on the agricultural sector. In specific, I apply data-driven approaches to assess the impacts of local and spatially compound hazard events affecting global hotspot producing regions. Moreover, I focus on the storyline approach to address low probability, high impact events both under current and future climate change conditions. My current research is embedded within [RECEIPT](https://climatestorylines.eu/), an EU-funded project on climate risk storylines. Before starting at the VU Amsterdam, I worked for the environmental consultancy company [FutureWater](http://futurewater.eu/). My main task focused on the EU-funded project [IMPREX](https://www.imprex.eu/) where I analyzed process-based and data-driven seasonal forecasting skill of hydrological and crop-related variables for a specific region in the South East of Spain.
