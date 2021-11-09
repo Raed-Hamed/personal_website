@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    author = ""
+    publication_type = "4"
+    author = "Raed Hamed"
     exclude_featured = false
   
 [design]
